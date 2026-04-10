@@ -450,7 +450,7 @@ function AgriRentHome() {
               <span className="cursor-pointer hover:text-yellow-400 transition-colors" title="Instagram">📸</span>
               <span className="cursor-pointer hover:text-yellow-400 transition-colors" title="YouTube">▶️</span>
             </div>
-            <p className="text-sm">📧 hello@agrirent.in</p>
+            <p className="text-sm">📧 avinashpawar7478@gmail.com</p>
             <p className="text-sm mt-1">📞 1800-123-4567 (Toll Free)</p>
           </div>
         </div>
