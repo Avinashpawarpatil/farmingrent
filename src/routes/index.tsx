@@ -412,7 +412,7 @@ function AgriRentHome() {
               📞 Call Us Free
             </a>
           </div>
-          <p className="text-green-300 text-sm">📧 hello@agrirent.in &nbsp;|&nbsp; 📞 1800-123-4567 &nbsp;|&nbsp; 📍 Pune, Maharashtra, India</p>
+          <p className="text-green-300 text-sm">📧 avinashp****@gmail.com &nbsp;|&nbsp; 📞 ******4145 &nbsp;|&nbsp; 📍 Chhatrapati Sambhajinagar, Maharashtra, India</p>
         </div>
       </section>
 
@@ -456,7 +456,7 @@ function AgriRentHome() {
         </div>
 
         <div className="border-t border-green-800 pt-6 text-center text-xs text-green-500">
-          © {new Date().getFullYear()} AgriRent. All rights reserved. &nbsp;|&nbsp; Made with 💚 for Indian Farmers
+          © {new Date().getFullYear()} AgriRent. All rights reserved. &nbsp;|&nbsp; Made with Avinash Labs
         </div>
       </footer>
     </div>
