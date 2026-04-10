@@ -378,7 +378,7 @@ function AgriRentHome() {
                 <p className="text-green-700 text-sm font-medium mt-1">{founder.title}</p>
                 <div className="flex justify-center gap-3 mt-4 text-gray-400">
                   <span className="hover:text-blue-600 cursor-pointer text-lg" title="LinkedIn">🔗</span>
-                  <span className="hover:text-sky-500 cursor-pointer text-lg" title="Twitter">🐦</span>
+                  <span className="hover:text-sky-500 cursor-pointer text-lg" title="Github">🔗</span>
                 </div>
               </div>
             ))}
@@ -406,13 +406,13 @@ function AgriRentHome() {
               Browse Equipment
             </a>
             <a
-              href="tel:+911800123456"
+              href="tel:+918010984145"
               className="border-2 border-white hover:bg-white hover:text-green-900 font-bold px-8 py-3 rounded-full text-lg transition-colors"
             >
               📞 Call Us Free
             </a>
           </div>
-          <p className="text-green-300 text-sm">📧 avinashp****@gmail.com &nbsp;|&nbsp; 📞 ******4145 &nbsp;|&nbsp; 📍 Chhatrapati Sambhajinagar, Maharashtra, India</p>
+          <p className="text-green-300 text-sm">📧 avinashpawar7478@gmail.com &nbsp;|&nbsp; 📞 ******4145 &nbsp;|&nbsp; 📍 Chhatrapati Sambhajinagar, Maharashtra, India</p>
         </div>
       </section>
 
@@ -451,7 +451,7 @@ function AgriRentHome() {
               <span className="cursor-pointer hover:text-yellow-400 transition-colors" title="YouTube">▶️</span>
             </div>
             <p className="text-sm">📧 avinashpawar7478@gmail.com</p>
-            <p className="text-sm mt-1">📞 1800-123-**** (Toll Free)</p>
+            <p className="text-sm mt-1">📞 ******4145 (Toll Free)</p>
           </div>
         </div>
 
