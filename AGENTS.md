@@ -4,7 +4,7 @@ This document provides an overview of the project structure for developers and A
 
 ## Project Overview
 
-An interactive resume/portfolio application with an AI-powered assistant. Built with TanStack Start and deployed on Netlify.
+An interactive Web application with an AI-powered assistant. Built with TanStack Start and deployed on Netlify.
 
 ### Tech Stack
 
@@ -155,4 +155,3 @@ This starter uses "Application Name" as a placeholder throughout the UI and meta
 ### SEO Metadata
 - `src/routes/__root.tsx` — the `title` field in the `head()` configuration
 
-Search for all occurrences of "Application Name" in the `src/` directory and replace with the user's application name.
