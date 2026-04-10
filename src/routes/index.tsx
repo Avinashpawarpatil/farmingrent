@@ -10,7 +10,7 @@ const equipment = [
     id: 1,
     name: 'Tractor',
     emoji: '🚜',
-    pricePerDay: 1200,
+    pricePerDay: 1800,
     available: true,
     description: 'Heavy-duty tractor suitable for all soil types. 75 HP engine.',
   },
@@ -26,7 +26,7 @@ const equipment = [
     id: 3,
     name: 'Plough',
     emoji: '⚙️',
-    pricePerDay: 400,
+    pricePerDay: 600,
     available: true,
     description: 'Multi-furrow plough for deep soil tillage. Fits most tractors.',
   },
@@ -50,7 +50,7 @@ const equipment = [
     id: 6,
     name: 'Rotavator',
     emoji: '🔄',
-    pricePerDay: 500,
+    pricePerDay: 700,
     available: true,
     description: 'Powered rotavator for fine seedbed preparation and weed control.',
   },
@@ -171,9 +171,9 @@ function AgriRentHome() {
             </a>
           </div>
           <div className="mt-12 flex flex-wrap justify-center gap-8 text-green-200 text-sm">
-            <span>✅ 500+ Equipment Units</span>
-            <span>✅ 10,000+ Happy Farmers</span>
-            <span>✅ 200+ Districts Served</span>
+            <span>✅ 120+ Equipment Units</span>
+            <span>✅ 1000+ Happy Farmers</span>
+            <span>✅ 15+ Districts Served</span>
           </div>
         </div>
       </section>
@@ -334,7 +334,7 @@ function AgriRentHome() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {[
               { stat: '500+', label: 'Equipment Units', icon: '🚜' },
-              { stat: '10K+', label: 'Farmers Served', icon: '👨‍🌾' },
+              { stat: '1K+', label: 'Farmers Served', icon: '👨‍🌾' },
               { stat: '200+', label: 'Districts', icon: '📍' },
               { stat: '4.9★', label: 'Average Rating', icon: '⭐' },
             ].map((item) => (
